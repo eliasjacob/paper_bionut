@@ -1,0 +1,19 @@
+id,specific field,food category,conflict of interest 
+Nutritional Sciences,Food composition,Plant,None
+Nutritional Sciences,Both nutritional fields ,Plant,None
+Nutritional Sciences,Food composition,Plant,None
+Nutritional Sciences,Both nutritional fields ,More than one category,None
+Nutritional Sciences,Food consumption,Plant,None
+Nutritional Sciences,Food composition,More than one category,None
+Nutritional Sciences,Food consumption,Plant,None
+Nutritional Sciences,Both nutritional fields ,Plant,None
+Nutritional Sciences,Food consumption,More than one category,None
+Nutritional Sciences,Food composition,Plant,None
+Nutritional Sciences,Food consumption,Plant,None
+Nutritional Sciences,Food consumption,Plant,None
+Nutritional Sciences,Food composition,Plant,None
+Environmental Sciences,Ethnobiology,More than one category,None
+Environmental Sciences,Ethnobiology,Plant,None
+Environmental Sciences,Both environmental fields ,Wild animals,None
+Environmental Sciences,Ethnobiology,Wild animals,None
+Environmental Sciences,Both environmental fields ,More than one category,None
